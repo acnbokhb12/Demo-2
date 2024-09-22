@@ -1,0 +1,16 @@
+*{
+    float: left;
+    
+}
+nav ul{
+    width: 100%;
+}
+nav li {
+    width: 25%;
+    list-style-type: none;
+    
+}
+
+nav a{
+    text-decoration: underline
+}
